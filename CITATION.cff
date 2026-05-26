@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Material complementario: Gemelo digital y control predictivo para la optimización térmica del proceso de fermentación y maduración cervecera"
+message: "Si utiliza este material, cite este repositorio y el artículo asociado."
+type: software
+authors:
+  - family-names: "Aguilar Mamani"
+    given-names: "Abad L."
+    orcid: "https://orcid.org/0009-0003-0995-6957"
+abstract: "Códigos MATLAB, modelo Simulink, parámetros y resultados complementarios para la simulación de control PID/MPC del proceso de fermentación y maduración cervecera tipo pilsener/lager."
+keywords:
+  - digital twin
+  - beer fermentation
+  - model predictive control
+  - Industry 4.0
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-05-25"
