@@ -1,0 +1,16 @@
+
+=====================================================
+INDICADORES PID DESDE SIMULINK - PERFIL 15 DIAS
+=====================================================
+MSE: 0.010340
+IAE: 15.821424
+StdError: 0.100959
+StdT: 6.639495
+Esfuerzo de control: 0.086298
+Error máximo absoluto: 0.533247 °C
+Último instante fuera de banda: 161.75 h
+Tiempo acumulado fuera de banda: 41.50 h
+      MSE       IAE      StdError     StdT     EsfuerzoControl    ErrorMax    UltimoInstanteFueraBanda    TiempoAcumuladoFueraBanda
+    _______    ______    ________    ______    _______________    ________    ________________________    _________________________
+
+    0.01034    15.821    0.10096     6.6395       0.086298        0.53325              161.75                       41.5           
