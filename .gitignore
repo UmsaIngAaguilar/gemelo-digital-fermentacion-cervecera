@@ -1,0 +1,42 @@
+# MATLAB autosave files
+*.asv
+
+# MATLAB temporary files
+*.m~
+
+# MATLAB backup files
+*.bak
+
+# Simulink cache and generated files
+slprj/
+*.slxc
+
+# MATLAB code generation folders
+codegen/
+
+# Simulink generated code folders
+*_ert_rtw/
+*_grt_rtw/
+*_rtw/
+
+# Simulink project temporary files
+*.autosave
+
+# MATLAB profiler and temporary files
+*.prf
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# LaTeX auxiliary files, if generated
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
