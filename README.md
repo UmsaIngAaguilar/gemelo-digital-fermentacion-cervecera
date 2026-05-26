@@ -1,6 +1,6 @@
 # Gemelo digital y control predictivo para la optimización térmica del proceso de fermentación y maduración cervecera
 
-Este repositorio contiene el material complementario del artículo:
+Este repositorio contiene el material complementario asociado al manuscrito “Gemelo digital y control predictivo para la optimización térmica del proceso de fermentación y maduración cervecera como aproximación hacia la Industria 4.0”.
 
 **Gemelo digital y control predictivo para la optimización térmica del proceso de fermentación y maduración cervecera como aproximación hacia la Industria 4.0**
 
@@ -34,4 +34,4 @@ El desarrollo corresponde a una etapa inicial de gemelo digital basada en modela
 
 ## Cita
 
-Si utiliza este material, cite el artículo asociado y el DOI generado por Zenodo.
+Si utiliza este material, cite el DOI generado por Zenodo. La referencia al artículo será actualizada una vez publicada la versión final en revista.
